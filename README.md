@@ -56,3 +56,9 @@ For the face classification task, the model achieved **72%** classification accu
 
 
 For the face verification task, the model achieved **94.27 AUC**
+
+
+## References
+
+MobileNetV2: Inverted Residuals and Linear Bottlenecks https://arxiv.org/pdf/1801.04381.pdf
+
